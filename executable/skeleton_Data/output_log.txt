@@ -6,9 +6,9 @@ Direct3D:
     Vendor:   Intel
     VRAM:     64 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\BSK\Desktop\Stajda\skeleton_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\BSK\Desktop\Stajda\skeleton_Data\Managed\UnityEngine.dll into Unity Child Domain
-- Completed reload, in  0.056 seconds
+Platform assembly: C:\Users\BSK\Documents\GitHub\Skeleton\executable\skeleton_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\BSK\Documents\GitHub\Skeleton\executable\skeleton_Data\Managed\UnityEngine.dll into Unity Child Domain
+- Completed reload, in  0.151 seconds
 desktop: 1920x1080 59Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
